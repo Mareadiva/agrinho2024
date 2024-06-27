@@ -8,7 +8,7 @@
     }
     
     .header_top{
-    background-color: #2d3142;
+    background-color: #0b6920c9;
     width: 100%;
     }
     
@@ -44,15 +44,38 @@
     display: flex;
     align-items: center;
     height: 100%;
-    color: #d36833;
+    color: #014b1d;
     }
     
     .header_top_menu ul li a:hover{
-    background-color: #d36833;
+    background-color: #fff;
     color: #fff;
     }
 
-    .header_quemsomos{
-        background-color: #d36833;
+    .quemsomos{
+        margin: 0 auto;
+        background-color: #bbf3d1;
+        width: 90%;
+        height: 400px;
+        padding: 20px;
     }
-    
+    .header_quemsomos h1{
+        font-size: 25px;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+    }
+    .header_quemsomos_content{
+        display: flex;
+    }
+        
+    .header_quemsomos_content .perfil{
+        width: 20%;
+    }
+    .perfil img{
+        width: 100%;
+        border-radius: 50%;
+    }
+    .header_quemsomos_content_descricao{
+        width: 50%;
+        margin-left: 40px;
+    }
