@@ -79,3 +79,111 @@
         width: 50%;
         margin-left: 40px;
     }
+/*---------------------------*/
+
+    .campo{
+        margin: 0 auto;
+        background-color: #bbf3d1;
+        width: 90%;
+        height: 650px;
+        padding: 20px;
+        
+    }
+    .campo_header{
+        width: 100%;
+    }
+    
+    h1{
+        font-size: 25px;
+        text-transform: uppercase;
+        margin: 20px;
+    }
+    .campo_content {
+        display: flex;        
+    }
+    
+    .campo_content_descricao{
+        width: 50%;
+        margin-left: 20px;
+        margin-right: 20px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .campo_content_img{
+        width: 50%;
+        /*border: 1px solid red;*/
+        margin-right: 20px;
+    }
+
+    /*---------------------------*/
+
+    .caracteristicas{
+        margin: 0 auto;
+        background-color: #bbf3d1;
+        width: 90%;
+        height: 650px;
+        padding: 20px;
+        
+    }
+    .caracteristicas_header{
+        width: 100%;
+    }
+    
+    h1{
+        font-size: 25px;
+        text-transform: uppercase;
+        margin: 20px;
+    }
+    .caracteristicas_content {
+        display: flex;        
+    }
+    
+    .caracteristicas_content_descricao{
+        width: 50%;
+        margin-left: 20px;
+        margin-right: 20px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .caracteristicas_content_img{
+        width: 50%;
+        /*border: 1px solid red;*/
+        margin-right: 20px;
+    }
+
+    /*---------------------------*/
+
+    .caracteristicascidade{
+        margin: 0 auto;
+        background-color: #bbf3d1;
+        width: 90%;
+        height: 650px;
+        padding: 20px;
+        
+    }
+    .caracteristicascidade_header{
+        width: 100%;
+    }
+    
+    h1{
+        font-size: 25px;
+        text-transform: uppercase;
+        margin: 20px;
+    }
+    .caracteristicascidade_content {
+        display: flex;        
+    }
+    
+    .caracteristicascidade_content_descricao{
+        width: 50%;
+        margin-left: 20px;
+        margin-right: 20px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .caracteristicascidade_content_img{
+        width: 50%;
+        /*border: 1px solid red;*/
+        margin-right: 20px;
+        
+    }
