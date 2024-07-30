@@ -54,7 +54,7 @@
 
     .quemsomos{
         margin: 0 auto;
-        background-color: #bbf3d1;
+    
         width: 90%;
         height: 400px;
         padding: 20px;
@@ -83,7 +83,7 @@
 
     .campo{
         margin: 0 auto;
-        background-color: #bbf3d1;
+        /*background-color: #bbf3d1;*/
         width: 90%;
         height: 650px;
         padding: 20px;
@@ -119,7 +119,7 @@
 
     .caracteristicas{
         margin: 0 auto;
-        background-color: #bbf3d1;
+       
         width: 90%;
         height: 650px;
         padding: 20px;
@@ -155,7 +155,7 @@
 
     .caracteristicascidade{
         margin: 0 auto;
-        background-color: #bbf3d1;
+   
         width: 90%;
         height: 650px;
         padding: 20px;
@@ -170,6 +170,7 @@
         text-transform: uppercase;
         margin: 20px;
     }
+
     .caracteristicascidade_content {
         display: flex;        
     }
